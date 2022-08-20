@@ -26,33 +26,3 @@
     transition-delay: .2s;
     border-radius: 8px;
 }
-.container-navbar {
-    background-color: white;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 85vh;
-}
-.img-content {
-    height: 60%;
-    width: 20%;
-}
-.audio-navbar1 {
-    background-color: black;
- 
-}
-.a-navbar {
-    color: white;
-    text-decoration: none;
-}
-.gambar-pro {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: red;
-    height: 73vh;
-}
-.img-content1 {
-    height: 430px;
-    width: 900px;
-}
